@@ -1,0 +1,1 @@
+arrBuilt.shift("left removed");
